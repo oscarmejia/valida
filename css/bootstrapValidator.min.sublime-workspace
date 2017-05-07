@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oni",
+				"oninvalid	Attr"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"pr",
+				"precio"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pago",
+				"padding-top"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"me",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/adsi/Escritorio/la jugosa/css/bootstrap.css",
+		"/home/adsi/Escritorio/pag/build/generated-sources/ap-source-output/Beans/Empleados_.java",
+		"/home/adsi/Escritorio/pag/build/generated/classes/org/apache/jsp/Index_jsp.class",
+		"/home/adsi/Escritorio/js/index.html",
+		"/home/adsi/Escritorio/js/script.js",
+		"/media/adsi/1484-8754/Proyecto-FrutInfo/pagprincipal/index2.html",
+		"/var/www/html/informacion",
+		"/var/www/html/i.html",
+		"/var/www/html/index.php",
+		"/var/www/html/hola.php",
+		"/home/adsi/Escritorio/javaweb/css/foundation.css",
+		"/media/adsi/1484-8754/Proyecto-FrutInfo/pagprincipal/css/estilos2.css",
+		"/media/adsi/EDER/Ingreso de Personal Meconstruc/index.html",
+		"/home/adsi/Escritorio/BBDD_JBDC/src/conectaBBDD/ConexionBBDD.java",
+		"/home/adsi/Escritorio/BBDD_JBDC/src/trabajoSena/conecta_Interfaz.java",
+		"/home/adsi/Escritorio/BBDD_JBDC/src/conectaBBDD/PracticaGuiada.java",
+		"/home/adsi/Escritorio/BBDD_JBDC/src/conectaBBDD/consultaBBDD.java",
+		"/home/adsi/Escritorio/BBDD_JBDC/src/conectaBBDD/modificaBBDD.java",
+		"/home/adsi/Escritorio/index.html",
+		"/home/adsi/Escritorio/archivos-para-web/index.html",
+		"/home/adsi/Escritorio/archivos-para-web/css/estilos.css",
+		"/home/adsi/Escritorio/archivos-para-web/css/fontello.css",
+		"/home/adsi/Escritorio/MODULO VENTAS/CancelarVenta.html",
+		"/home/adsi/Escritorio/proyecto final/MOD-ADMIN/administrativo_ventas.html",
+		"/home/adsi/Escritorio/proyecto final/Principal.html",
+		"/home/adsi/Descargas/index.html",
+		"/home/adsi/.cache/.fr-aeTned/Mackup/assets/dropdown/css/style.css",
+		"/home/adsi/Escritorio/MODULO VENTAS/GenerarFacturaVentas.html",
+		"/home/adsi/Escritorio/MODULO VENTAS/InformeDeVentas.html",
+		"/home/adsi/Escritorio/proyecto final/MOD-VENTAS/RegistrarVenta.html",
+		"/home/adsi/Escritorio/MODULO VENTAS/ListarVenta.html",
+		"/home/adsi/Escritorio/proyecto final/MOD-ADMIN/administrativo_autorizaciones.html",
+		"/home/adsi/Escritorio/proyecto/index.html",
+		"/home/adsi/Escritorio/proyecto/js/jquery.js",
+		"/home/adsi/Escritorio/oscar/referencias.html",
+		"/home/adsi/Escritorio/oscar/laboral.html",
+		"/home/adsi/Escritorio/oscar/academica.html",
+		"/home/adsi/Escritorio/oscar/estilo.css",
+		"/home/adsi/Escritorio/oscar/HDV.html",
+		"/home/adsi/Escritorio/formulario/estilo.css",
+		"/home/adsi/Escritorio/formulario/index.html",
+		"/home/adsi/Escritorio/trabajo1/index.html",
+		"/home/adsi/Documentos/1/1.html",
+		"/home/adsi/Escritorio/estilo.css",
+		"/home/adsi/Escritorio/hojadevida.html",
+		"/home/adsi/Escritorio/oscar.html",
+		"/home/adsi/Documentos/script.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	<",
+			"tr",
+			"().",
+			");\n",
+			"black",
+			"success",
+			"number",
+			"personales",
+			"clientes",
+			"\n<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bootstrapValidator.min.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
